@@ -1,7 +1,7 @@
 # CS1D - Project-1
 
-Coding Standards
-Namespaces
+- Coding Standards
+o Namespaces
 use scope resolution operator (no using namespace std)
 Variables
 use descriptive names
